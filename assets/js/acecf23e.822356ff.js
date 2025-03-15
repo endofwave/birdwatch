@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbirdwatch=self.webpackChunkbirdwatch||[]).push([[284],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/birdwatch/blog","blogTitle":"Blog","authorsListPath":"/birdwatch/blog/authors"}')}}]);
