@@ -13,7 +13,7 @@ module.exports = {
         {
           type: 'category',
           label: 'Passeriformi',
-          items: ['bird-families/passerines/overview'],
+          items: ['bird-families/passerines/overview', 'bird-families/passerines/identification'],
         },
       ],
     },
